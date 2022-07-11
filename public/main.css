@@ -1,0 +1,32 @@
+.form-register {
+  height: 675px;
+  padding: 20px;
+  margin: 0px auto;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-family: Antic;
+  color: white;
+  -webkit-box-shadow: 4px 13px 35px #000;
+          box-shadow: 4px 13px 35px #000;
+  font-size: 16px;
+}
+
+
+.controls {
+  width: 95%;
+  background: white;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 5px;
+  font-family: Antic;
+  border-color: white;
+  color: black;
+}
+
+.placeholder {
+  color: black;
+}
+
+.form-register legend {
+  text-align: center;
+}
